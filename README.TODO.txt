@@ -1,0 +1,5 @@
+- Tanks shouldn't fire unless they have spotted / can see the player
+- tanks pathfinding is really dump, goes 'directly' towards the player
+- AI can always SEE the player. Sucks. They should move somewhere towards where they THINK they are.  Could be sides, could be anywhere. 
+- Tank movement physics suck. Hard to move without massive force, but when it speeds up it's waaaay too bouncy. Doesn't stay on the ground.
+- Braking needs to be much more. i.e: lots more friction created due to braking (and transmission)
